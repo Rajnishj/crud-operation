@@ -21,7 +21,7 @@ const Home = () => {
       <div className="row">
         <div className="col-md-12 text-end mt-4">
           <Link to="/add" className="btn btn-outline-dark">
-            AddContact
+            AddContacts
           </Link>
         </div>
         <div className="col-md-10 text-center mx-auto">
